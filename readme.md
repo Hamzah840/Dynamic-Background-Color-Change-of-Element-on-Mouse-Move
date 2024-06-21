@@ -1,6 +1,6 @@
 🔴🔵 Welcome to Our Advanced Web Development Tutorial!
 
-In this video, you'll learn how to create a stunning dynamic background color effect using HTML, CSS, and JavaScript. Watch as we guide you through the steps to change a rectangle's background color based on mouse movement, transitioning smoothly from red to blue.
+Here, you'll learn how to create a stunning dynamic background color effect using HTML, CSS, and JavaScript. Watch as we guide you through the steps to change a rectangle's background color based on mouse movement, transitioning smoothly from red to blue.
 
 
 👨‍💻 What You'll Learn:
